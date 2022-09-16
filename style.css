@@ -1,0 +1,43 @@
+body{
+    overflow-x: hidden;
+}
+.navbar{
+    background-image: linear-gradient(to right,#3DDAD7, #2A93D5);
+}
+#banner{
+    padding-top: 10%;
+    background-image: linear-gradient(to right,#3DDAD7, #2A93D5);
+}
+#banner img{
+    height: 350px;
+}
+#about{
+    /* background-color: #f1f2f6; */
+    padding-top: 60px;
+    margin-top:-15%;
+    padding-bottom: 60px;
+}
+#services{
+    /* background-color: #f1f2f6; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#services img{
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#product{
+    /* background-color: #f1f2f6; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#contact{
+    /* background-color: #f1f2f6; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer{
+    background-image: linear-gradient(to right,#3DDAD7, #2A93D5);
+    color: #fff;
+}
